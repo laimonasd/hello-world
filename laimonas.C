@@ -19,7 +19,7 @@ double nslit(double *x, double *par){
 }
 
 // This is the main program
-void laimonciux() {
+void laimonas() {
   float r,ns;
 
   // request user input
